@@ -12,5 +12,5 @@
     <li>Direct the terminal to a folder you want to save project in by typing: cd [paste folder directory path here without brackets] & press Enter</li>
     <li>In terminal, type: git clone [paste HTTPS link from GitHub here without brackets] & press Enter</li>
     <li>Open VS Code (or your preferred source-code editor) & open the Quote-Generator folder along with its files</li>
-    <li>Run project in any file</li>
+    <li>Run project in any file via live server extension</li>
   </ol>
